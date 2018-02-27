@@ -1,3 +1,8 @@
+% Auteurs : Axel Bosco et Alexandre Gagnon
+% CIPs : bosa2002 et gaga2515
+% Date : 28 février 2018
+% Description : Code qui permet de calculer la résolution théorique
+% des mesures de l'ADC du microcontrôleur.
 clear all
 close all
 
